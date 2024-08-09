@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 80vh;
+    width: 90vw;
+    background-size: cover;
+    padding: 15px;
+    margin-left: 25px;
+}
+
+.podcast-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #ffffff;
+    padding: 18px;
+}
+
+.bottom-image {
+    height: 120px;
+    width: 180px;
+    padding: 10px;
+}
+
+.card-container {
+    margin: 20px;
+}
+
+.bottom-image-head {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #151765;
+    font-weight: bold;
+    text-align: center;
+    margin: 5px;
+}
+
+.bottom-image-episode {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #5a7184;
+    text-align: center;
+}
+
+.bottom-para {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.bg-container {
+    height: 30vh;
+    width: 100vw;
+    background-color: #151765;
+}
+
+.bottom-image1 {
+    height: 130px;
+    width: 130px;
+    padding: 10px;
+}
+
+.section-para {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.section-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.card2 {
+    height: 150px;
+    width: 170px;
+}
+
+.card-2 {
+    height: 30vh;
+    width: 70vw;
+}
+
+.mole-heading {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #151765;
+    font-weight: 700;
+}
+
+.mole-para {
+    font-family: "Roboto";
+    font-size: 13px;
+    color: #5a7184;
+    font-weight: 100;
+}
+
+.mole-time {
+    font-family: "Roboto";
+    font-size: 10px;
+    color: #151765;
+}
+
+.back-button {
+    height: 30px;
+    width: 80px;
+    color: #ffffff;
+    border-radius: 10px;
+    background-color: #151765;
+    border-width: 0px;
+}
+
+.button-container {
+    margin: 20px;
+    text-align: right;
+}

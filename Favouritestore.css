@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top-section-favorite-store-background {
+    height: 100vh;
+    width: 100vw;
+    background-color: #894bca;
+}
+
+.top-section-favorite-store-heading {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    color: #ffffff;
+    padding: 23px;
+}
+
+.top-section-favorite-store-image {
+    height: 200px;
+    width: 300px;
+}
+
+.bottom-section-background {
+    height: 100vh;
+    width: 100vw;
+    background-color: #ffffff;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.your-store-one-click {
+    font-family: "Bree Serif";
+    font-size: 20px;
+    color: #f789c3;
+    padding: 25px;
+}
+
+
+.store-related-image {
+    height: 90px;
+    width: 90px;
+    padding: 15px;
+}
+
+.store-related-heading {
+    font-family: "Bree Serif";
+    font-size: 20px;
+    color: #323f4b;
+}
+
+.store-related-para {
+    font-family: "Bree Serif";
+    font-size: 13px;
+    color: #7b8794;
+}

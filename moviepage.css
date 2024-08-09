@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+    height: 120vh;
+    padding: 24px;
+
+}
+
+.heading {
+    font-size: 28px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.para {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.watch-button {
+    background-color: #ffffff;
+    font-size: 12px;
+    color: #ff8348;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    border-width: 0px;
+}
+
+/*.corusel {
+    height: 500px;
+    width: 430px;
+    padding: 15px;
+}
+*/
+
+.bottom-heading {
+    font-size: 17px;
+    font-family: "Roboto";
+    color: white;
+    font-weight: 500;
+}
+
+.image {
+    height: 140px;
+    width: 100px;
+    margin: 15px;
+    margin-top: -10px;
+}
+
+.top-section {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*.middle-section {
+    margin-top: 10px;
+}
+*/

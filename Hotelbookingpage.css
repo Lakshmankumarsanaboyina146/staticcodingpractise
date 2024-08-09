@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.main-heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    padding: 8px;
+}
+
+.para {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+    padding: 8px;
+}
+
+.paragraph {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    padding: 8px;
+    font-weight: 600;
+}
+
+.book-now-button {
+    background-color: white;
+    color: black;
+    border-radius: 8px;
+    height: 35px;
+    width: 100px;
+    font-family: "Roboto";
+    font-size: 12px;
+    border-width: 0px;
+}
+
+.card-container {
+    background-color: #000000e6;
+    border-radius: 16px;
+    padding: 15px;
+
+}
+
+.button-container {
+    text-align: center;
+    margin: 20px;
+}
